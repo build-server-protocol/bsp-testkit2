@@ -60,7 +60,7 @@ load("@rules_jvm_external//:defs.bzl", "maven_install")
 
 maven_install(
     artifacts = [
-     "com.google.code.gson:gson:2.8.9",
+     "com.google.code.gson:gson:2.10.1",
      "com.google.guava:guava:31.1-jre",
      "org.eclipse.lsp4j:org.eclipse.lsp4j.jsonrpc:0.12.0",
      "ch.epfl.scala:bsp4j:2.1.0-M4",
