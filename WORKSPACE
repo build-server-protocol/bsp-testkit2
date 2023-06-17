@@ -65,7 +65,7 @@ maven_install(
      "org.eclipse.lsp4j:org.eclipse.lsp4j.jsonrpc:0.12.0",
      "ch.epfl.scala:bsp4j:2.1.0-M4",
      "org.junit.jupiter:junit-jupiter:5.9.3",
-     "org.scala-lang:scala-library:2.13.8",
+     "org.scala-lang:scala-library:2.13.11",
     ],
     fetch_sources = True,
     repositories = [
