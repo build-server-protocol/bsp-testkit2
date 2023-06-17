@@ -62,7 +62,7 @@ maven_install(
     artifacts = [
      "com.google.code.gson:gson:2.8.9",
      "com.google.guava:guava:31.1-jre",
-     "org.eclipse.lsp4j:org.eclipse.lsp4j.jsonrpc:0.12.0",
+     "org.eclipse.lsp4j:org.eclipse.lsp4j.jsonrpc:0.21.0",
      "ch.epfl.scala:bsp4j:2.1.0-M4",
      "org.junit.jupiter:junit-jupiter:5.9.3",
      "org.scala-lang:scala-library:2.13.8",
