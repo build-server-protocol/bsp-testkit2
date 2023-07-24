@@ -70,7 +70,7 @@ maven_install(
         "com.google.code.gson:gson:2.10.1",
         "com.google.guava:guava:31.0.1-jre",
         "ch.epfl.scala:bsp4j_2.13:2.1.0-M6.alpha",
-        "org.junit.jupiter:junit-jupiter:5.9.3",
+        "org.junit.jupiter:junit-jupiter:5.10.0",
         "org.scala-lang:scala-library:2.13.11"
     ],
     fetch_sources = True,
