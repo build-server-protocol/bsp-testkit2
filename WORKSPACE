@@ -43,9 +43,9 @@ load("@rules_jvm_external//:defs.bzl", "maven_install")
 
 http_archive(
     name = "io_bazel_rules_scala",
-    sha256 = "141a3919b37c80a846796f792dcf6ea7cd6e7b7ca4297603ca961cd22750c951",
-    strip_prefix = "rules_scala-5.0.0",
-    url = "https://github.com/bazelbuild/rules_scala/archive/refs/tags/v5.0.0.tar.gz",
+    sha256 = "6982e330f48517461f231ea596bd93416200286ab73fc070a11052496689f0ee",
+    strip_prefix = "rules_scala-5.1.0",
+    url = "https://github.com/bazelbuild/rules_scala/archive/refs/tags/v5.1.0.tar.gz",
 )
 
 load("@io_bazel_rules_scala//:scala_config.bzl", "scala_config")
